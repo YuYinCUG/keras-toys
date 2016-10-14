@@ -1,3 +1,8 @@
+'''Learning keras by training a simple CNN on the CIFAR10 images dataset
+
+Note: The design of the CNN and the main code from https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py
+I just re-program the code in order to get familiar with kera library
+'''
 import matplotlib.pyplot as plt
 from scipy.misc import imresize
 from keras.datasets import cifar10
